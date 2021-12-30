@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 16 01:32:05 2021
 
-@author: Vignesh
+@author: Somaskandan
 """
 import selenium
 from selenium import webdriver
